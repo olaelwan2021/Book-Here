@@ -21,14 +21,15 @@ The work is divided among four team members as follows:-
 - Ensure the site is responsive and works on mobile screens.
 
 ### 2. Front-End Logic  — [Mohamed Gamal]
-- Implement interactive features with **JavaScript** (e.g., search filters, date inputs).
-- Connect the front-end to the back-end APIs or PHP/Node files.
-- Validate user input before sending data to the server.
+- Implement interactive features using JavaScript (e.g., search filters, date inputs).
+- Connect the front-end to the back-end APIs built with Node.js + Express.
+- Validate user input on the client-side before sending it to the server.
 
-### 3. Back-End & Database  — [Omar Mohamed]
-- Create the **database** (MySQL/SQLite) with tables for hotels and bookings.
-- Develop the **server-side code** (PHP or Node.js) to fetch hotels and store bookings.
-- Add basic security checks (e.g., form validation).
+### 3. Back-End & Database  — [Omar Mohammed]
+- Create and manage the database using MongoDB with collections for hotels and bookings.
+- Develop the server-side code with Node.js + Express to handle APIs for hotels and bookings.
+- Implement features for fetching hotels, storing reservations, and managing booking data.
+- Add basic security checks and input validation to protect the system.
 
 ### 4. Integration & Deployment  — [Ola Elwan]
 - Merge front-end and back-end code and resolve conflicts.
