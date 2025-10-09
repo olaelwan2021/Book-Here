@@ -39,10 +39,15 @@ The work is divided among four team members as follows:-
 ---
 
 ### Suggested Timeline
-- **Days 1–2:** Set up the database and basic HTML structure.  
-- **Day 3:** Connect front-end to back-end.  
-- **Day 4:** Final testing and deployment.
+- **Weeks 1–2:** Set up the database and basic HTML structure.  
+- **Week 3:** Connect front-end to back-end.  
+- **Week 4:** Final testing and deployment.
 
+---
 
+## 📄 Project Documents
 
+- [Website Features (PDF)](docs/project-documentation.pdf)
+- [Wireframe (PDF)](docs/project-features.pdf)
+- [Documentation (PDF)](docs/project-wireframe.pdf)
  
