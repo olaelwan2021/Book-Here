@@ -45,7 +45,7 @@ The work is divided among four team members as follows:-
 
 ---
 
-### 📄 Project Documents
+### Project Documents
 
 - [Documentation (PDF)](docs/project-documentation.pdf)
 - [Website Features (PDF)](docs/project-features.pdf)
