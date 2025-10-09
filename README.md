@@ -10,6 +10,12 @@ Mohamed Gamal
 
 link of drive:-    https://drive.google.com/drive/u/1/folders/1b1B8x37EezHFOuVXXPC-E9Rd-GTXUMcC
 
+### Project Documents
+
+- [Documentation (PDF)](docs/project-documentation.pdf)
+- [Website Features (PDF)](docs/project-features.pdf)
+- [Wireframe (PDF)](docs/project-wireframe.pdf)
+
 ## Project Task Division
 
 Our **Book Here** project is a simple web application with only front-end and back-end components.  
@@ -43,11 +49,4 @@ The work is divided among four team members as follows:-
 - **Week 3:** Connect front-end to back-end.  
 - **Week 4:** Final testing and deployment.
 
----
-
-### Project Documents
-
-- [Documentation (PDF)](docs/project-documentation.pdf)
-- [Website Features (PDF)](docs/project-features.pdf)
-- [Wireframe (PDF)](docs/project-wireframe.pdf)
  
