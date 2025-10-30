@@ -1,0 +1,51 @@
+{
+    "Rooms":[
+        {
+            "id":"1",
+            "name":"Superior Room",
+            "src":"/images/room-1.png",
+            "price":"$4500",
+            "description":"The Superior Room combines modern elegance and comfort, featuring a spacious layout, premium bedding, and a relaxing ambiance — perfect for both business and leisure travelers."
+            
+            
+        },
+         {
+            "id":"2",
+            "name":"superior Deluxe Room",
+            "src":"/images/room-2.png",
+            "price":"$9500",
+            "description":"The Superior Deluxe Room offers an elegant blend of comfort and sophistication, featuring premium furnishings, a king-size bed, and a private balcony with a city or pool view."
+            
+            
+        },
+         {
+            "id":"3",
+            "name":"Luxury Suite, Ocean View",
+            "src":"/images/room-3.png",
+            "price":"$7350",
+            "description":"The Luxury Suite Room offers an exceptional stay experience with elegant décor, a spacious living area, a private balcony, and breathtaking views — designed for guests who seek ultimate comfort and sophistication."
+            },
+            
+            {
+            "id":"4",
+            "name":"Superior Double Room",
+            "src":"/images/room-4.png",
+            "price":"$450",
+            "description":"The Superior Double Room combines comfort and elegance, featuring a spacious layout, a king-size bed, and stylish décor — perfect for couples or business travelers."
+            },
+            {
+            "id":"5",
+            "name":"Super Balancy Double Room",
+            "src":"/images/room-5.png",
+            "price":"$550",
+            "description":"The Superior Balcony Double Room offers modern elegance and comfort, featuring a private balcony, a king-size bed, and contemporary décor for an unforgettable stay."
+            },
+            {
+            "id":"6",
+            "name":"Delux Double Room",
+            "src":"/images/room-6.png",
+            "price":"$350",
+            "description":"The Deluxe Double Room offers refined comfort and style, featuring elegant décor, a spacious layout, and a luxurious double bed — ideal for couples seeking relaxation and sophistication."
+            }
+    ]
+}
