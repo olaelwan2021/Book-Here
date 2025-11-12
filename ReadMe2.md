@@ -38,7 +38,9 @@ Defined target users such as travelers, business guests, and families.
 Identified their booking preferences and behavior.
 
 ### Visual Identity
+
 <img src="https://github.com/user-attachments/assets/ca019954-a9fe-4f47-b03f-8612a7271592" alt="Visual Identity" width="300"/>
+
 Selected the color palette, typography, and visual style suitable for a hotel brand.
 
 Designed a clean and elegant interface reflecting comfort and luxury.
