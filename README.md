@@ -29,6 +29,8 @@ Mohamed Gamal
 
 3. **Visual Identity**
    ![Hotel Logo](./logo.png)
+   
+![logo](https://github.com/user-attachments/assets/ca019954-a9fe-4f47-b03f-8612a7271592)
 
 
    * Selected the color palette, typography, and visual style suitable for a hotel brand.
