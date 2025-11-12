@@ -28,9 +28,9 @@ Mohamed Gamal
    * Identified their booking preferences and behavior.
 
 3. **Visual Identity**
-   ![Hotel Logo](./logo.png)
    
-![logo](https://github.com/user-attachments/assets/ca019954-a9fe-4f47-b03f-8612a7271592)
+   
+<img src="https://github.com/user-attachments/assets/ca019954-a9fe-4f47-b03f-8612a7271592" alt="Visual Identity" width="300"/>
 
 
    * Selected the color palette, typography, and visual style suitable for a hotel brand.
