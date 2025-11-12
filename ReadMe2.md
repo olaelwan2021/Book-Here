@@ -50,9 +50,9 @@ Designed a clean and elegant interface reflecting comfort and luxury.
 
 ### Main Designs
 
-<img src="https://github.com/olaelwan2021/Book-Here/blob/bc337ffd871e1d79296027cb08437be42907fc87/loginpage.jpg" alt="Login Page" width="300"/>
+<img src="https://github.com/olaelwan2021/Book-Here/blob/bc337ffd871e1d79296027cb08437be42907fc87/loginpage.jpg" alt="Login Page" width="100%"/>
 
-<img src="https://github.com/olaelwan2021/Book-Here/blob/bc337ffd871e1d79296027cb08437be42907fc87/listingpage.jpg" alt="Listing Page" width="300"/>
+<img src="https://github.com/olaelwan2021/Book-Here/blob/bc337ffd871e1d79296027cb08437be42907fc87/listingpage.jpg" alt="Listing Page" width="100%"/>
 
 ### Poster & Complementary Products
 
