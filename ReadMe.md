@@ -88,14 +88,12 @@ Hesham Mohammed.
 
 You can find the full project files here:
 
-```
 - Drive link: Project DEPI- Google Drive
 - Git Hub link: https://github.com/olaelwan2021/Book-Here
 - [Documentation (PDF)](docs/project-documentation.pdf)
 - [Website Features (PDF)](docs/project-features.pdf)
 - [Wireframe (PDF)](docs/project-wireframe.pdf)
 
-```
 
 ## License
 
