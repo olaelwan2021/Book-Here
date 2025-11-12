@@ -28,7 +28,8 @@ Mohamed Gamal
    * Identified their booking preferences and behavior.
 
 3. **Visual Identity**
-   
+   ![Hotel Logo](./logo.png)
+
 
    * Selected the color palette, typography, and visual style suitable for a hotel brand.
    * Designed a clean and elegant interface reflecting comfort and luxury.
