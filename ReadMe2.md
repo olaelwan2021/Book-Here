@@ -25,47 +25,47 @@ Eman Gamal
 
 ## Work Plan
 
-### Research & Analysis
+### 1. Research & Analysis
 
 Studied hotel booking systems and analyzed user needs.
 
 Collected data about common hotel website features and user experience patterns.
 
-### Audience Personas
+### 2. Audience Personas
 
 Defined target users such as travelers, business guests, and families.
 
 Identified their booking preferences and behavior.
 
-### Visual Identity
+### 3. Visual Identity
 
 Selected the color palette, typography, and visual style suitable for a hotel brand.
 
 Designed a clean and elegant interface reflecting comfort and luxury.
 
 
-### Logo Design
+### 4. Logo Design
 
 <img src="https://github.com/user-attachments/assets/ca019954-a9fe-4f47-b03f-8612a7271592" alt="Visual Identity" width="300"/>
 
-### Main Designs
+### 5. Main Designs
 
 <img src="https://github.com/olaelwan2021/Book-Here/blob/bc337ffd871e1d79296027cb08437be42907fc87/loginpage.jpg" alt="Login Page" width="100%"/>
 
 <img src="https://github.com/olaelwan2021/Book-Here/blob/bc337ffd871e1d79296027cb08437be42907fc87/listingpage.jpg" alt="Listing Page" width="100%"/>
 
-### Poster & Complementary Products
+### 6. Poster & Complementary Products
 
 Designed a promotional poster and a set of complementary products, such as
 branded cards and mockups, to reinforce the project’s visual identity.
 
-### Review & Finalization
+### 7. Review & Finalization
 
 Reviewed all pages and tested website functionality.
 
 Fixed bugs and improved UI/UX before submission.
 
-### Final Presentation
+### 8. Final Presentation
 
 Prepared slides to present the project to the instructor.
 
