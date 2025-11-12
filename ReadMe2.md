@@ -39,8 +39,6 @@ Identified their booking preferences and behavior.
 
 ### Visual Identity
 
-<img src="https://github.com/user-attachments/assets/ca019954-a9fe-4f47-b03f-8612a7271592" alt="Visual Identity" width="300"/>
-
 Selected the color palette, typography, and visual style suitable for a hotel brand.
 
 Designed a clean and elegant interface reflecting comfort and luxury.
@@ -48,7 +46,13 @@ Designed a clean and elegant interface reflecting comfort and luxury.
 
 ### Logo Design
 
-Main Designs
+<img src="https://github.com/user-attachments/assets/ca019954-a9fe-4f47-b03f-8612a7271592" alt="Visual Identity" width="300"/>
+
+### Main Designs
+
+<img src="https://github.com/olaelwan2021/Book-Here/blob/bc337ffd871e1d79296027cb08437be42907fc87/loginpage.jpg" alt="Login Page" width="300"/>
+
+<img src="https://github.com/olaelwan2021/Book-Here/blob/bc337ffd871e1d79296027cb08437be42907fc87/listingpage.jpg" alt="Listing Page" width="300"/>
 
 ### Poster & Complementary Products
 
