@@ -1,0 +1,134 @@
+/* Payment */
+@media (max-width: 991px) {
+    .payment-container {
+        flex-direction: column;
+        
+    }
+
+    .payment-methods-box {
+        width: 100% !important;
+    }
+
+    .summary-container {
+        width: 100% !important;
+    }
+    .summary-container img {
+        width: 40%;
+    }
+}
+
+@media (max-width: 574px) {
+    .summary-container img {
+        width: 50%;
+    }
+}
+
+/* Listing */
+@media (max-width: 1197px) {
+    .listing-container  {
+        max-width: 100% !important;
+        padding-left: 38px !important;
+        padding-right: 38px !important;
+    }
+}
+
+@media (max-width: 1180px) {
+    .fl-container {
+        display: inline !important;
+
+    }
+    
+    .filters-container  {
+        width: 100% !important;
+    }
+
+    .listing {
+        width: 100% !important;
+    }
+
+    .listBody {
+        width: 100% !important;
+        padding-right: .6rem;
+    }
+}
+
+@media (max-width: 655px) {
+    .price-section {
+        height: 70%;
+    }
+}
+
+@media (max-width: 412px) {
+    .amenities div {
+        justify-content: space-around !important;
+    }
+}
+
+/* Registration */
+@media (max-width: 992px) {
+    .registeration-bg {
+        flex-direction: column;
+        height: auto;
+        padding-bottom: 3rem;
+    }
+
+    .registration-welcoming {
+        margin-top: 4rem !important;
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .form-box {
+        position: relative;
+        width: 90%;
+        margin: 2rem auto;
+        border-radius: 2rem;
+        height: auto;
+    }
+
+    .form-box.login {
+        transform: translateX(-100%);
+    }
+    .active .form-box.login {
+        transform: translateX(0);
+    }
+    .active .form-box.signup {
+        transform: translateX(-100%);
+    }
+}
+
+
+@media (max-width: 576px) {
+    .form-box {
+        transform: none !important;
+        transition: none !important;
+        position: relative;
+        width: 100% !important;
+        margin: 0;
+        backdrop-filter: blur(12px);
+    }
+
+    .form-wrapper:not(.active) .signup {
+        display: none !important;
+    }
+
+    .form-wrapper.active .login {
+        display: none !important;
+    }
+
+    .form-wrapper {
+        width: 100%;
+    }
+
+    .registeration-bg {
+        flex-direction: column;
+        height: auto;
+        padding: 1rem;
+    }
+
+    .registration-welcoming {
+        margin-top: 2rem !important;
+        width: 100% !important;
+        text-align: center;
+    }
+}
